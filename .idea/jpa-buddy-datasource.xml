@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="a096c33d-bf22-4d35-8ca7-5599109cb1cf" name="task-tracker-api" url="jdbc:postgresql://localhost/task-tracker-api" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
